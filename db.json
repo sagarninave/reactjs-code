@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "first_name": "sagar",
+      "last_name": "ninave",
+      "email": "sagarninave1996@gmail.com",
+      "mobile": "9657445206",
+      "dob": "1996-08-06",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "first_name": "sanket ",
+      "last_name": "wankhede",
+      "email": "sanketwankhede2020@gmail.com",
+      "mobile": "1647896515",
+      "dob": "2008-10-21",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "first_name": "dipak",
+      "last_name": "hedaoo",
+      "email": "dh@gmail.com",
+      "mobile": "645785125",
+      "dob": "1995-10-31",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "first_name": "shailesh",
+      "last_name": "hedaoo",
+      "email": "sh@gmail.com",
+      "mobile": "1547888888",
+      "dob": "2020-11-06",
+      "gender": "male",
+      "id": 4
+    }
+  ],
+  "todo": []
+}
